@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+.conda/
+
+# IDE specific
+.idea/
+.vscode/
+
+# Sensitive data files
+data/
+
+# Logs
+*.log
+logs/
+
+#Conda
+# Remove conda prefix in terminal
+.condarc
